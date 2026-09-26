@@ -25,5 +25,8 @@ To fully replicate this setup, ensure you have the following dependencies instal
 1. Clone this repository to your local machine:
    `git clone https://github.com/pipbug/dotfiles.git`
 2. Install the required dependencies (can generally be done via Homebrew: `brew install fastfetch iterm2 figlet`).
+4. Install Oh-My-Zsh and powerlevel10k, following the configuration wizards https://github.com/romkatv/powerlevel10k
 3. Import the Catppuccin Macchiato color scheme into iTerm2.
 4. Copy or symlink the configuration files (like .zshrc, .p10k.zsh, .config) to your home directory. Make sure to back up any existing configurations first.
+
+You can change the ASCII-art logo at the top of fastfetch by modifying ~/.config/fastfetch/config.jsonc
