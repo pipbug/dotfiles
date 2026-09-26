@@ -1,6 +1,8 @@
 # dotfiles
 my macos customization dotfiles. i provide no guarantees that these will all work on your system.
 
+![screenshot of iTerm2](preview.png)
+
 # requirements
 - zsh
 - oh-my-zsh
@@ -8,3 +10,4 @@ my macos customization dotfiles. i provide no guarantees that these will all wor
 - fastfetch
 - figlet
 - powerlevel10k + catppuccin macchiato for p10k/zsh
+
